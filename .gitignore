@@ -1,0 +1,7 @@
+
+__pycache__/
+*.gguf
+*.npy
+*.pkl
+.env
+.aienv/
